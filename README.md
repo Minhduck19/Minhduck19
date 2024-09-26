@@ -1,6 +1,8 @@
-##                    👋Hi there!! I'm Minh Duc
- I'm a student at University of Information Technology [![Student](https://github.com/user-attachments/assets/33f0c207-e42e-475d-ae17-4df8418cda37)](https://www.uit.edu.vn/node?destination=node)
+##    <h3 align="center">                👋Hi there!! I'm Minh Duc
+ 
 
+
+  <h3 align="center">🎓 I'm a student at @ <a href="https://en.uit.edu.vn/overview-vnuhcm-university-information-technology" target="_blank">University of Information Technology - VNUHCM</a></h3>
 
 
 
